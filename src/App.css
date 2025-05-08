@@ -1,0 +1,28 @@
+#root {
+  padding: 2rem;
+}
+.contact-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0.5rem;
+}
+form > input{
+  padding: 0.6rem;
+  margin: 0.5rem;
+}
+.contact-list{
+  border-bottom: solid 0.1rem #9ce9e5;
+}
+.contact-list-info{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+.contact-action button{
+  padding: 0.7rem;
+  margin: 0.5rem;
+}
+
